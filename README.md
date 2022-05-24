@@ -1,5 +1,5 @@
 ## Olá, bem-vindo ao meu github! <br>
-Sou estudante de engenharia de Software pelo UNISATC
+Sou estudante de engenharia de Software pela UNISATC
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
