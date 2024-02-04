@@ -6,7 +6,7 @@
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
 	<p>👤 Me chamo Elói Matos, e estou fazendo Engenharia de Software pela UniSATC.</p>
-        <p>🧠 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>.</p>
+        <p>🧠 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>MUI</strong>.</p>
         <p>📚 Estou a todo momento aprendendo sobre software e seus diversos processos de desenvolvimento.<p>
         <p>💌 Gosto especial por front-end, UX & UI.</p>
         <p align="left">
